@@ -1,4 +1,4 @@
-# Denial of Death by Ernest Becker _a summary by Ben Letchford_
+# Denial of Death by Ernest Becker: a book summary
 
 The following is a summary of Ernest Becker's seminal work, "The Denial of Death," which explores the profound implications of human mortality on individual psychology, culture, and society. Becker's book delves into the fundamental fear of death that underlies human behavior, arguing that individuals construct elaborate defenses and belief systems to shield themselves from the existential dread of mortality. By examining the interplay between heroism, repression, and symbolic self-construction, Becker illuminates the complex ways in which humans navigate the tensions between their physical and symbolic selves.
 
