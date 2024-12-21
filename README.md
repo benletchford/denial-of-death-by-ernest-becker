@@ -6,7 +6,19 @@ The text is structured in a way that allows readers to navigate through the summ
 
 The work is licensed under a Creative Commons Zero v1.0 Universal License, which means it is in the public domain and free for anyone to use, modify, and distribute without restrictions. The summary is intended to provide a concise and accessible overview of Becker's seminal work, offering readers a gateway into the profound insights and reflections on human nature and mortality that the book explores.
 
----
+## Table of Contents
+
+- [Chapter 1](#chapter-1)
+- [Chapter 2](#chapter-2)
+- [Chapter 3](#chapter-3)
+- [Chapter 4](#chapter-4)
+- [Chapter 5](#chapter-5)
+- [Chatper 6](#chapter-6)
+- [Chapter 7](#chapter-7)
+- [Chapter 8](#chapter-8)
+- [Chapter 9](#chapter-9)
+- [Chapter 10](#chapter-10)
+- [Chapter 11](#chapter-11)
 
 ## Chapter 1
 
